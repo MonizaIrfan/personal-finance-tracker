@@ -1,7 +1,5 @@
-Here’s a **beautiful README** for your **Personal Finance Tracker** MERN stack application, complete with icons, project description, and installation instructions:
 
 ---
-
 # Personal Finance Tracker 🏦💰
 
 A modern and fully-responsive **Personal Finance Tracker** app built with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). This app helps users easily manage their income, expenses, and budgets, track their financial progress, visualize spending through charts, and export data for offline use.
@@ -110,33 +108,6 @@ The client-side will now run on `http://localhost:3000`.
 
 ### ⚙️ **Project Structure**
 
-```
-personal-finance-tracker/
-├── client/                 # React frontend
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── Dashboard.js
-│   │   │   ├── Login.js
-│   │   │   ├── ExpenseForm.js
-│   │   ├── App.js
-│   │   ├── App.css
-│   │   ├── index.js
-│   ├── package.json
-├── server/                 # Node.js/Express backend
-│   ├── models/
-│   │   └── Expense.js
-│   ├── routes/
-│   │   └── expenseRoutes.js
-│   ├── controllers/
-│   │   └── expenseController.js
-│   ├── config/
-│   │   └── db.js
-│   ├── server.js
-│   ├── package.json
-```
-
----
 
 ### 📄 **Licenses**
 
@@ -150,32 +121,16 @@ Feel free to fork this project, open issues, or submit pull requests. Contributi
 
 ---
 
-### 📣 **Demo**
-
-Check out a live demo of the app hosted on [Heroku](https://your-heroku-app-link.com) (Optional, if deployed).
-
----
-
-### 💡 **Future Features**
-
-- **Dark Mode** 🌙
-- **Multi-Currency Support** 💵
-- **Income vs Expense Analytics** 📊
-- **Recurring Transactions** 🔄
-
----
-
 ### 📞 **Contact**
 
-For any queries, please contact [your-email@example.com](mailto:your-email@example.com).
+For any queries, please contact (https://www.linkedin.com/in/moniza-irfan-3b93b5209/).
 
 ---
 
 ### 🧑‍💻 **Follow Me**
 
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Twitter](https://twitter.com/yourprofile)
+- [GitHub](https://github.com/MonizaIrfan)
+- [LinkedIn](https://www.linkedin.com/in/moniza-irfan-3b93b5209/)
 
 ---
 
