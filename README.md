@@ -55,4 +55,3 @@ For any queries, please contact (https://www.linkedin.com/in/moniza-irfan-3b93b5
 
 ---
 
-This README will make your project look well-organized and professional, showcasing all the key features and making it easy for others to run your app locally and contribute.
