@@ -1,6 +1,6 @@
 
 ---
-# Personal Finance Tracker 🏦💰
+# MERN Personal Finance Tracker 🏦💰
 
 A modern and fully-responsive **Personal Finance Tracker** app built with the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). This app helps users easily manage their income, expenses, and budgets, track their financial progress, visualize spending through charts, and export data for offline use.
 
